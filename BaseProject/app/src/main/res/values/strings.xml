@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BaseProject</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <!-- Error Message -->
+    <string name="error_unauthorized">Unauthorized</string>
+    <string name="error_internal_server_error">Internal server error</string>
+    <string name="error_unknown_error">Unknown Error</string>
+    <!-- End Error Message -->
+</resources>
